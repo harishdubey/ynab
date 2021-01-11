@@ -1,0 +1,27 @@
+.budgetDetails {
+  padding: 25px;
+}
+.backBtn {
+  padding: 10px 25px;
+  border: 1px solid #ccc;
+  background: #ccc;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+.rowDiv {
+  padding: 15px 25px;
+  border-bottom: 1px solid #f2f2f2;
+}
+.containerBorder {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  border: 1px solid #ccc;
+}
+.loadingDiv {
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+  border: 1px solid #ccc;
+  color: green;
+}
